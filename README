@@ -1,0 +1,5 @@
+
+First create the .credentials folder in root directory of the proyect and paste the key of identity platform named as identityPlatformKey.json
+
+run yarn install or npm install
+run yarn run dev or npm run dev
